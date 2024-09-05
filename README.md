@@ -37,6 +37,6 @@ The project uses two CSV files: train.csv and test.csv. The columns are:
 # Files
 - **1. titanic.ipynb:** Jupyter notebook containing the full code for data preprocessing, model building, and evaluation.
 - **2. data**: This folder contains the dataset (csv files) used.
-  **i) train.csv:** The training dataset used to train the model.
-  **ii) test.csv:** The test dataset used to generate predictions.
+  - **i) train.csv:** The training dataset used to train the model.
+  - **ii) test.csv:** The test dataset used to generate predictions.
 - **3. submission.csv:** The final predictions on the test dataset in the required format for submission.
